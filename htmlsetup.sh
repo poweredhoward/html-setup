@@ -1,4 +1,5 @@
 #!/bin/bash
+#Use dos2unix in bash terminal to make it readable by bash
 mkdir $1
 cd $1
 mkdir assets
