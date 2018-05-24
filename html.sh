@@ -15,10 +15,7 @@ cat <<EOF >$1".html"
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" \n integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- local css -->
-    <link rel="stylesheet" type="text/css" media="screen" href="assets/style.css"/>
-    <!-- local js -->
-    <script src="assets/app.js"></script>
+
 </head>
 <body>
     
